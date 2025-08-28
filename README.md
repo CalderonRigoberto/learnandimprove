@@ -7,7 +7,7 @@ Estoy practicando para demostrar el uso de docker y jib en aplicaciones Java, ad
 ### Referencia de documentación
 Para mayor información consulta las siguientes referencias:
 
-* [Jibn](https://github.com/GoogleContainerTools/jib)
+* [Jib](https://github.com/GoogleContainerTools/jib)
 * [Como usar postgres con Docker](https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/3.5.5/maven-plugin/build-image.html)
 
